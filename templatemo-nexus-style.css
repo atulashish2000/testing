@@ -233,8 +233,8 @@ https://templatemo.com/tm-594-nexus-flow
         }
 
         .orb3 {
-            width: 250px;
-            height: 250px;
+            width: 251px;
+            height: 251px;
             background: var(--primary-purple);
             top: 50%;
             left: 50%;
@@ -1635,4 +1635,5 @@ https://templatemo.com/tm-594-nexus-flow
 
         ::-webkit-scrollbar-thumb:hover {
             background: linear-gradient(var(--primary-pink), var(--primary-cyan));
+
         }
